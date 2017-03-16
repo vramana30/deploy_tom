@@ -36,7 +36,13 @@
 			<id>kevinsawicki</id>
 		</developer>
 	</developers>
-
+<servers>
+  <server>
+    <id>github</id>
+    <username>vramana30</username>
+    <password>Ramana123</password>
+  </server>  
+</servers>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
